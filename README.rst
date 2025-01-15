@@ -9,7 +9,7 @@ Made By::
 
   Nate Washburn: NateTheGreat1230
   Hyrum Schoonmaker: yoshis20apples
-  Brighton Dutson:
+  Brighton Dutson: BrightonDutson
   Jake: UserJK8
   Website: https://www.thecalculatorguy.net/Assignments/apewrite/Duck/duck.html
 
